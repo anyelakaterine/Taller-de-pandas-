@@ -16,9 +16,9 @@ Programa: Ingeniería de Sistemas
 Universidad del Pacífico
 
 2026
+## Link del Notebook en Google Colab
 
-## Acceso al Taller de Pandas en Google Colab: https://colab.research.google.com/github/Kelly23mosquera/INVESTIGACION_PANDA-/blob/main/taller_pandas/taller.ipynb
-
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kelly23mosquera/INVESTIGACION_PANDA-/blob/main/taller_pandas/taller.ipynb)
 
 # Taller de Pandas – Análisis de Datos en Python
 
