@@ -11,7 +11,7 @@ Integrantes:
 
 * Kelly Jhoana Mosquera Urbano
 * Anyela Katerine Rentería Cuama
-
+## Acceso al Taller de Pandas en Google Colab: https://colab.research.google.com/github/Kelly23mosquera/INVESTIGACION_PANDA-/blob/main/taller_pandas/taller.ipynb
 Programa: Ingeniería de Sistemas
 
 Universidad del Pacífico
